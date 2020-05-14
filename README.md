@@ -1,1 +1,0 @@
-# Hovhannes-Hovhannisyan
