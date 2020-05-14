@@ -1,0 +1,147 @@
+.header {
+  padding: 80px;
+  text-align: center;
+  background-image: url(download.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: black;
+  opacity: 0.9;
+}
+
+  .gmail {
+    width: 9px;
+  }
+
+
+  .mail{
+    float: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 92%;
+    width: 293%;
+    border-radius: 50%;
+    position: relative;
+        
+  }
+  .tel{
+    background-image: url(tel.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    top: 10px;
+    left: 10px;
+  }
+
+
+  .work{
+    width: 50%;
+    height: auto;
+    background-color: moccasin;
+    background-position-x: center;
+    position: absolute;
+    
+   
+}
+  .ski{
+    float: right;
+    margin-left: 0px;
+    background-color: #a76255;
+    width: 50%;
+    height: 912px;
+    position: absolute;
+    left: 49.5%;
+
+  }
+
+
+    .home{
+        background-image: url(./home.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: relative;
+        top: 10px;
+        left: 10px;
+
+
+    }
+    
+  
+
+  .navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+  }
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .cl{
+      float: left;
+  }
+
+  .head{
+    color:white;
+    font-size: larger;
+  }
+  .text{
+    color: black;
+    font-size: 19px;
+    margin-top: -66px;
+    font-style: italic;
+    font-family: cursive;
+
+  }
+  .ucom{
+    width: 50px;
+    margin-top: -86px;
+  }
+
+  .expe{
+    color: black;
+    text-align: center;
+    font-style: italic;
+  }
+
+  .img{
+    width: 50px;
+    height: auto;
+    margin-top: 7px;
+}
+  
+
+  .pla{
+    font-size: x-large;
+    margin-top: -40px;
+    margin-left: 98px;
+
+  }
+
+  .place{
+    margin-top: -27px;
+    font-size: x-large;
+    margin-left: 101px;
+
+  }
+  
+  .img1{
+    width: 50px;
+    height: 51px;
+
+  }
+
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+  }
